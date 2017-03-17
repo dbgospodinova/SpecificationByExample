@@ -27,7 +27,7 @@
 	</pluginRepositories>
 
 	<build>
-	<pluginManagement>
+
 		<plugins>
 			<plugin>
 				<groupId>com.hindsighttesting.behave</groupId>
@@ -75,7 +75,7 @@
 				</executions>
 			</plugin>
 		</plugins>
-		</pluginManagement>
+	
 	</build>
 
 	<dependencies>
