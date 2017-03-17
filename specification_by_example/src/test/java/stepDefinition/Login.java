@@ -12,8 +12,8 @@ public class Login {
 
 	}
 
-	@Given("^User navigates to \"([^\"]*)\" Login page on \"([^\"]*)\"$")
-	public void user_navigates_to_Login_page_on(String portal, String link) throws Throwable {
+	@Given("^User navigates to \"([^\"]*)\" Login page$")
+	public void user_navigates_to_Login_page_on(String portal) throws Throwable {
 		// Write code here that turns the phrase above into concrete actions
 
 	}
@@ -24,8 +24,8 @@ public class Login {
 
 	}
 
-	@Then("^\"([^\"]*)\" user is successfully logged in$")
-	public void user_is_successfully_logged_in(String user) throws Throwable {
+	@Then("^user is successfully logged in$")
+	public void user_is_successfully_logged_in() throws Throwable {
 		// Write code here that turns the phrase above into concrete actions
 
 	}
