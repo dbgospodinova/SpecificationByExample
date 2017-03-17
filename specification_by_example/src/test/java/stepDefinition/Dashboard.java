@@ -4,7 +4,7 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
-public class DummySteps {
+public class Dashboard {
 	@Given("^Global User is logged in$")
 	public void global_User_is_logged_in() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
