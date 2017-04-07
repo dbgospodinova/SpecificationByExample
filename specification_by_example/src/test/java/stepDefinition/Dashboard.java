@@ -11,6 +11,11 @@ public class Dashboard {
 	    
 	}
 	
+	@Given("User navigates to \"([^\"]*)\"$")
+	public void user_navigates_to_portal(String portal) throws Throwable {
+	
+	}
+	
 	@Given("^\"([^\"]*)\" User is logged in with \"([^\"]*)\" and \"([^\"]*)\"$")
 	public void user_is_logged_in_with_and(String user,String username, String password) throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
