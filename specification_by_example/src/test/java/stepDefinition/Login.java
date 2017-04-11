@@ -13,7 +13,7 @@ public class Login {
 
 	}
 
-	@Given("^user navigates to \"([^\"]*)\" Login page$")
+	@Given("^User navigates to \"([^\"]*)\" Login page$")
 	public void user_navigates_to_Login_page_on(String portal) throws Throwable {
 		// Write code here that turns the phrase above into concrete actions
 
