@@ -35,7 +35,7 @@
 				<version>1.0.4</version>
 				<configuration>
 					<server>http://localhost:8080</server>
-					<projectKey>10100</projectKey>
+					<projectKey>test</projectKey>
 					<username>bdd123456</username>
 					<password>bdd123456</password>
 				</configuration>
