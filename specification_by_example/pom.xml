@@ -34,10 +34,10 @@
 				<artifactId>behave-maven-plugin</artifactId>
 				<version>1.0.4</version>
 				<configuration>
-					<server>http://jira.dev.miracl.net:8080</server>
-					<projectKey>12902</projectKey>
-					<username>diana.gospodinova</username>
-					<password>ifahthu3IuPahghi</password>
+					<server>http://localhost:8080</server>
+					<projectKey>10100</projectKey>
+					<username>bdd123456</username>
+					<password>bdd123456</password>
 				</configuration>
 				<executions>
 					<execution>
