@@ -35,9 +35,9 @@
 				<version>1.0.4</version>
 				<configuration>
 					<server>http://localhost:8080</server>
-					<projectKey>10003</projectKey>
-					<username>behavepro1</username>
-					<password>behavepro1</password>
+					<projectKey>10100</projectKey>
+					<username>bdd123456</username>
+					<password>bdd123456</password>
 				</configuration>
 				<executions>
 					<execution>
